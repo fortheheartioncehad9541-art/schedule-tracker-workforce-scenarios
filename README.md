@@ -99,3 +99,12 @@ The workbooks are intended as a workforce-planning and scenario-visualization pr
 ## Author
 
 Developed by Erick Aaron Luna Galaviz as a portfolio project focused on process analysis, workforce planning, and data visualization.
+
+Usage and attribution
+This repository is published for portfolio and demonstration purposes.
+
+Copyright © 2026 Erick Aaron Luna Galaviz. All rights reserved.
+
+No permission is granted to reproduce, modify, redistribute, sell, or present this project or its workbooks as original work without prior written authorization.
+
+For permission requests, please contact the repository owner.
